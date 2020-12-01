@@ -1,24 +1,10 @@
-# blogdemo
+# vue-blog是small-springboot项目的前端
 
-## Project setup
+## 快速开始
 ```
+git clone 
+cd vue-blog
 npm install
-```
-
-### Compiles and hot-reloads for development
-```
 npm run serve
 ```
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
